@@ -1,3 +1,7 @@
+🌐 **English** | [Deutsch](README.de.md) | [Français](README.fr.md)
+
+---
+
 # CAGE Companion
 
 A simple Android app for tracking Cannula Age (CAGE) with Nightscout integration.
